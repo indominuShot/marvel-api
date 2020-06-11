@@ -1,3 +1,16 @@
+## Sobre o Projeto
+
+#### Este projeto foi desenvolvido com o objetivo de por em prática meus conhecimentos com api's.
+#### Basicamente este projeto apresenta todos os personagens da Marvel com uma breve descrição, imagem e quantidade de histórias, séries e quadrinhos.
+
+## Resultados
+
+#### Esta é a primeira tela onde é exibida uma lista de heróis em ordem alfabética e um campo de pesquisa para você encontrar um herói específico.
+![FirstScreen](https://github.com/indominuShot/marvel-api/blob/master/assets/Anota%C3%A7%C3%A3o%202020-06-10%20211524.png?raw=true)
+
+#### Aqui é o perfil do herói, onde são apresentadas algumas informações sobre ele.
+![HerpProfile](https://github.com/indominuShot/marvel-api/blob/master/assets/Anota%C3%A7%C3%A3o%202020-06-10%20211634.png?raw=true)
+
 ## Primeiros Passos
 
 ### 1. Criar uma conta no site da Marvel
